@@ -1,3 +1,3 @@
 # merge-test
 
-pete
+peter
